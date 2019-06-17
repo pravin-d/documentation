@@ -42,8 +42,11 @@ nav:
 - Brand:
   - 'Overview': 'brand/overview.md'
   - 'User Roles': 'brand/userRoles.md'
-  - 'Brand': 'brand/brand.md'
+  - 'Dashboard': 'brand/dashboard.md'
+  - 'Create Campaign': 'brand/createcampaign.md'
+  - 'My Brand': 'brand/mybrand.md'
   - 'Brand Users': 'brand/brandUsers.md'
   - 'Campaigns': 'brand/campaigns.md'
   - 'Campaign Overviews': 'brand/campaignoverview.md'
   - 'Profile': 'brand/profile.md'
+
