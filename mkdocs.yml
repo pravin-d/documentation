@@ -1,0 +1,49 @@
+site_name: Krowd Doc
+
+theme:
+  name: null
+  custom_dir: mkdocs-material/material
+  language: en
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo:
+    icon: "\uE80C"
+  feature:
+    tabs: true
+
+dev_addr: '127.0.0.1:8001'
+
+nav:
+- Home: 'index.md'
+- Admin:
+  - 'Overview': 'admin/overview.md'
+  - 'Banks': 'admin/banks.md'
+  - 'Bank Users': 'admin/bankUsers.md'
+  - 'Brands': 'admin/brands.md'
+  - 'Brand Users': 'admin/brandUsers.md'
+  - 'Transactions and Impressions': 'admin/txImp.md'
+  - 'Trigger Campaign Overview Create': 'admin/triggerco.md'
+  - 'Profile': 'admin/profile.md'
+- Bank:
+  - 'Overview': 'bank/overview.md'
+  - 'User Roles': 'bank/userRoles.md'
+  - 'Dashboard': 'bank/dashboard.md'
+  - 'My Bank': 'bank/mybank.md'
+  - 'Bank Users': 'bank/bankUsers.md'
+  - 'Brands': 'bank/brands.md'
+  - 'Brand Users': 'bank/brandUsers.md'
+  - 'Campaign Overviews': 'bank/campaignoverview.md'
+  - 'Campaigns': 'bank/campaigns.md'
+  - 'Profile': 'bank/profile.md'
+- Brand:
+  - 'Overview': 'brand/overview.md'
+  - 'User Roles': 'brand/userRoles.md'
+  - 'Brand': 'brand/brand.md'
+  - 'Brand Users': 'brand/brandUsers.md'
+  - 'Campaigns': 'brand/campaigns.md'
+  - 'Campaign Overviews': 'brand/campaignoverview.md'
+  - 'Profile': 'brand/profile.md'
