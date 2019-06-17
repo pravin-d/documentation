@@ -2,40 +2,40 @@
 
 ## View all Brands
 1. Click on _Brands_ menu item (annotation (1))  
-![Brand Main Menu](/images/admin/brands/viewall1.png)
+![Brand Main Menu](/documentation/images/admin/brands/viewall1.png)
 2. The item will expand to show two sub-menu items
 3. Click on _List_ sub menu item (annotation(2))  
-![Brand Main Menu](/images/admin/brands/viewall2.png)
+![Brand Main Menu](/documentation/images/admin/brands/viewall2.png)
 4. Brand List View
-![Brand Main Menu](/images/admin/brands/listview1.png)
+![Brand Main Menu](/documentation/images/admin/brands/listview1.png)
 
 #### List Page description
 
 The _Brands list_ page will display a list of brands (max 10 at a time) in a table format.
 
 1. Search for a Brand by name  - Annotation (3)
-![Brand Main Menu](/images/admin/brands/listview2.png)
+![Brand Main Menu](/documentation/images/admin/brands/listview2.png)
 2. Sort the items based on the given column - Annotation (4)  
 **Note :** Sorting can be done only for one column at a time
-![Brand Main Menu](/images/admin/brands/listview3.png)
+![Brand Main Menu](/documentation/images/admin/brands/listview3.png)
 3. Navigate to view next/previous 10 brands - Annotation (5)
-![Brand Main Menu](/images/admin/brands/listview4.png)
+![Brand Main Menu](/documentation/images/admin/brands/listview4.png)
 4. _CurrentPage Page Number_ / _Total Pages_ - Annotation (6)
-![Brand Main Menu](/images/admin/brands/listview5.png)
+![Brand Main Menu](/documentation/images/admin/brands/listview5.png)
 
 ## Create a Brand
 
 1. Navigate to List view. See [Link](#view-all-brands)
 2. Click on (+) button (annotation (7)).
-![Brand Main Menu](/images/admin/brands/createview1.png)
+![Brand Main Menu](/documentation/images/admin/brands/createview1.png)
 3. Create form popup will appear.  
 Screenshot 1
-![Brand Main Menu](/images/admin/brands/createview2.png)  
+![Brand Main Menu](/documentation/images/admin/brands/createview2.png)  
 Screenshot 2
-![Brand Main Menu](/images/admin/brands/createview3.png)
+![Brand Main Menu](/documentation/images/admin/brands/createview3.png)
 4. Enter the required details and click on _Add_ button at the bottom of the Popup (refer to Screenshot 2)  
 **Note :** Click on the placeholder image (annotation (8)) to upload Brand Logo.
-![Brand Main Menu](/images/admin/brands/createview4.png)
+![Brand Main Menu](/documentation/images/admin/brands/createview4.png)
 5. On success, a success notification will be displayed on top right corner of the screen
 6. On failure, a failure notification with error from the server will be displayed  
 on the top right corner of the screen
@@ -44,9 +44,9 @@ on the top right corner of the screen
 
 1. Navigate to List view. See [Link](#view-all-brands)
 2. Click on _cloud_ button (annotation (9)).
-![Brand Main Menu](/images/admin/brands/bulkcreateview1.png)
+![Brand Main Menu](/documentation/images/admin/brands/bulkcreateview1.png)
 3. File upload popup will appear.
-![Brand Main Menu](/images/admin/brands/bulkcreateview2.png)
+![Brand Main Menu](/documentation/images/admin/brands/bulkcreateview2.png)
 3. Select a brands CSV file by clicking on file input.
 4. Click on _Upload_ button to upload the file
 5. On success, a success notification will be displayed on top right corner of the screen
@@ -68,12 +68,12 @@ on the top right corner of the screen
 
 1. Navigate to List view. See [Link](#view-all-brands)
 2. Click on edit button (annotation (10)).
-![Brand Main Menu](/images/admin/brands/updateview1.png)
+![Brand Main Menu](/documentation/images/admin/brands/updateview1.png)
 3. Edit form popup will appear with prefilled Brand data  
 Screenshot 1
-![Brand Main Menu](/images/admin/brands/updateview2.png)
+![Brand Main Menu](/documentation/images/admin/brands/updateview2.png)
 Screenshot 2
-![Brand Main Menu](/images/admin/brands/updateview3.png)
+![Brand Main Menu](/documentation/images/admin/brands/updateview3.png)
 4. Edit the required details and click on _Edit_ button
 5. On success, a success notification will be displayed on top right corner of the screen
 6. On failure, a failure notification with error from the server will be displayed on the  
@@ -102,9 +102,9 @@ top right corner of the screen
 
 1. Navigate to List view. See [Link](#view-all-brands)
 2. Click on _Trash_ button (annotation (11)).
-![Brand Main Menu](/images/admin/brands/deleteview1.png)
+![Brand Main Menu](/documentation/images/admin/brands/deleteview1.png)
 3. Delete confirmation popup will appear.
-![Brand Main Menu](/images/admin/brands/deleteview2.png)
+![Brand Main Menu](/documentation/images/admin/brands/deleteview2.png)
 4. Click on _Delete_ button
 5. On success, a success notification will be displayed on top right corner of the screen
 6. On failure, a failure notification with error from the server will be displayed on the  

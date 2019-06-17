@@ -6,7 +6,7 @@ all the _current campaigns_ run by associated **Brands**
 ## Dashboard
 
 1. Click on _Dashboard_ menu item (annotation (1))  
-![Campaigns Main Menu](/images/bank/dashboard/viewall1.png)
+![Campaigns Main Menu](/documentation/images/bank/dashboard/viewall1.png)
 2. Dashboard View
 ![Brand Main Menu](/images/bank/dashboard/dashboard1.png)
 

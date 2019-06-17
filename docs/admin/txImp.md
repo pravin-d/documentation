@@ -6,10 +6,10 @@ Optionally Admin can upload transactions and impressions in a csv format to the 
 ## Upload Transactions and Impressions
 
 1. Click on _Campaign Overviews_ menu item on the sidebar (annotation (1))  
-![Campaign Overviews Menu](/images/admin/co/view1.png)
+![Campaign Overviews Menu](/documentation/images/admin/co/view1.png)
 2. Select a transactions CSV file by clicking on file input (annotation (2)).
 3. Select a impressions CSV file by clicking on file input (annotation (3)).
-![Campaign Overviews Menu](/images/admin/co/view2.png)
+![Campaign Overviews Menu](/documentation/images/admin/co/view2.png)
 4. Click on _Upload Doc_ button  
 __Note :__ Upload Docs requires both transactions and impressions file. User cannot upload just one doc
 
