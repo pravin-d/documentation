@@ -17,9 +17,9 @@ __Note :__ Upload Docs requires both transactions and impressions file. User can
 
 ```
 
-"bank_id","customer_token","customer_id","campaign_id","branch_id","date","tx_date","tx_amount","tx_commission","createdAt","updatedAt"
-"1","1","1","1","1",NULL,"2019-05-02 18:30:00","100","10","2019-06-11 12:41:19","2019-06-11 12:41:19"
-"1","2","2","1","2",NULL,"2019-05-03 18:30:00","200","20","2019-06-11 12:41:19","2019-06-11 12:41:19"
+"bank_id","customer_token","customer_id","campaign_id","branch_id",tx_date","tx_amount","tx_commission"
+"1","1","1","1","1","2019-05-02 18:30:00","100","10"
+"1","2","2","1","2","2019-05-03 18:30:00","200","20"
 
 ``` 
 
@@ -27,8 +27,8 @@ __Note :__ Upload Docs requires both transactions and impressions file. User can
 
 ```
 
-"bank_id","customer_token","customer_id","campaign_id","branch_id","user_impression","user_impression_at","user_interaction","user_interaction_at","createdAt","updatedAt"
-"1","1","1","1","1",NULL,"2019-05-02 18:30:00",NULL,NULL,"2019-06-11 12:41:19","2019-06-11 12:41:19"
-"1","1","1","1","1",NULL,"2019-05-02 18:30:00",NULL,NULL,"2019-06-11 12:41:19","2019-06-11 12:41:19"
+"bank_id","customer_token","customer_id","campaign_id","branch_id","user_impression","user_impression_at","user_interaction","user_interaction_at"
+"1","1","1","1","1",NULL,"2019-05-02 18:30:00",NULL,NULL
+"1","1","1","1","1",NULL,"2019-05-02 18:30:00",NULL,NULL
 
 ```
